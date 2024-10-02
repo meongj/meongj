@@ -55,7 +55,6 @@ I'm trying to grow every day.✨
 
 ### 🔥 Activity
 
-
 [![Meongj's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=meongj&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meongj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
