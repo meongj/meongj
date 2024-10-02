@@ -33,7 +33,10 @@ I'm trying to grow every day.✨
 ![macos](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
 
-### 🔥 Tools
+---
+
+
+### 🛠️ Tools
 ![intellJ](https://img.shields.io/badge/IntellJ%20IDE-000000?style=flat-square&logo=intellj%20IDE&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
@@ -41,6 +44,10 @@ I'm trying to grow every day.✨
 ![git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-F3F3F3?style=flat-square&logo=notion&logoColor=black)
+
+
+
+---
 
 
 ### 🔥 Activity
