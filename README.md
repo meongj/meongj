@@ -46,7 +46,7 @@ I'm trying to grow every day.✨
 ![Notion](https://img.shields.io/badge/notion-F3F3F3?style=flat-square&logo=notion&logoColor=black)
 
 
-
+<!--
 ---
 
 
@@ -56,6 +56,7 @@ I'm trying to grow every day.✨
 [![Meongj's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=meongj&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meongj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
