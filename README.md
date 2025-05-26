@@ -7,7 +7,7 @@
 ---
 
 ### 🙋🏻‍♀️ About Me
-Hi there, I am a backend developer using Java programming language. <br>
+Hi there, I am a frontend developer using JavaScript programming language. <br>
 I love the process of finding problems and solving them in an efficient way. <br>
 I'm trying to grow every day.✨
 
