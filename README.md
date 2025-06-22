@@ -7,7 +7,7 @@
 ---
 
 ### 🙋🏻‍♀️ About Me
-Hi there, I am a frontend developer using JavaScript programming language. <br>
+Hi there, I am a developer using JavaScript programming language. <br>
 I love the process of finding problems and solving them in an efficient way. <br>
 I'm trying to grow every day.✨
 
@@ -24,9 +24,6 @@ I'm trying to grow every day.✨
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
-
-![tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white)
-
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
@@ -41,25 +38,15 @@ I'm trying to grow every day.✨
 
 ### 🛠️ Tools
 
+![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 ![git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-F3F3F3?style=flat-square&logo=notion&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-
-
----
-
-
-### 🔥 Activity
-
-![Meongj's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=meongj&show_icons=true&theme=default#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meongj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
